@@ -1,0 +1,5 @@
+# Happy Birthday Bash Script
+
+### Usage
+
+Run `bash <(curl -s https://leo.gd/run/happy-birthday-template.sh)` from local
